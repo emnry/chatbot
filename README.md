@@ -37,9 +37,9 @@ Possibilité d'arrêter le programme en entrant "stop".
 Compiler le programme avec gcc :
 
 ```bash
-gcc -o chatbot main.c chatbot.c -Wall
+gcc -o chatbot main.c -Wall
 ```
 Exécuter le programme :
 ```bash
-./chatbot
+chatbot.exe
 ```
